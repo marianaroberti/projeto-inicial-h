@@ -1,6 +1,4 @@
 /*Este é um comentário em css*/
-    .cabecalho h1 {
-        font-size: 24px;
-        color: #333;
-        background-color: blueviolet;
+    header {
+     background-color:blue
     }
