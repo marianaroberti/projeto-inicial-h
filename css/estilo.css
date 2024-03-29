@@ -2,3 +2,11 @@
     header {
      background-color:blue
     }
+    h1 {
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h2 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    a { font-weight: bold;
+    }
+    
