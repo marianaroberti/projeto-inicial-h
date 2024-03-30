@@ -19,3 +19,8 @@
     p {
         color: green;
     }
+    button {background-color: blue;}
+    input {background-color: blue;}
+    ::placeholder { color: aliceblue;}
+    body {border-style: solid; border-color: red; border-width: 2px;}
+    
