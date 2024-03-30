@@ -11,3 +11,11 @@
     }
     div {padding: 20px;}
     section {line-height: 1.5;}
+    form {
+        border: solid 1px #c4c4c4;
+        padding: 10PX;
+    }
+
+    p {
+        color: green;
+    }
